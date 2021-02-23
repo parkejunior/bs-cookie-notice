@@ -1,7 +1,11 @@
-/*
+/**
+ * A simple cookie consent notice alert for Bootstrap 4 without require jQuery
+ * @author Patrick Luan <patrick_luan1@hotmail.com>
+ * @licence MIT
  * 
- * 
- * Released under MIT license
+ * @constructor
+ * @param {object}
+ * @return {object}
  */
 var BsCookieNotice = function (options) {
     "use strict";
