@@ -2,7 +2,7 @@
   "name": "bs-cookie-notice",
   "version": "1.0.0",
   "description": "A simple cookie consent notice alert for Bootstrap 4 without require jQuery",
-  "main": "index.js",
+  "main": "src/bs-cookie-notice.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/parkejunior/bs-cookie-notice.git"
   },
+  "keywords": [
+    "cookie",
+    "cookie notice",
+    "cookie consent",
+    "lgpd",
+    "gdpr",
+    "js",
+    "javascript",
+    "bootstrap",
+    "bs4"
+  ],
   "author": "Patrick Luan",
   "license": "MIT",
   "bugs": {
