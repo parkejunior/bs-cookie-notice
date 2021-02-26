@@ -4,7 +4,7 @@
   "description": "A simple cookie consent notice alert for Bootstrap 4 without require jQuery",
   "main": "src/bs-cookie-notice.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
