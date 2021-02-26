@@ -223,3 +223,5 @@ var BsCookieNotice = function (options) {
         return source;
     }
 };
+
+window.BsCookieNotice = BsCookieNotice;
