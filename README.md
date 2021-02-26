@@ -16,7 +16,7 @@ This plugin is a little bit based on [`Wruczek/Bootstrap-Cookie-Alert`](https://
 
 First, you will need to install [NPM](https://www.npmjs.com/get-npm). Then, run the following command:
 ```bash
-$ npm install parkejunior/bs-cookie-notice
+$ npm install bs-cookie-notice --save
 ```
 
 # Usage
