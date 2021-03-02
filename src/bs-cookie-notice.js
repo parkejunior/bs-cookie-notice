@@ -40,6 +40,7 @@ var BsCookieNotice = function (options) {
             html: false,
             classes: [],
             href: "#",
+            target: "_self",
             callback: false,
         },
         color: "dark",
@@ -158,6 +159,7 @@ var BsCookieNotice = function (options) {
         } else {
             more = document.createElement('a');
             more.setAttribute('href', params.more.href);
+            more.setAttribute('target', params.more.target);
             more.innerHTML = locales[params.locale].more;
 
             for (var i in params.more.classes) {
