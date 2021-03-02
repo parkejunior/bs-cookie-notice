@@ -68,6 +68,15 @@ new BsCookieNotice({
     }
 });
 ```
+There may also be a need to use the [target](https://www.w3schools.com/tags/att_a_target.asp) attribute. To do this, you can pass the attribute value ( `_blank`, `_self`, etc.) to the `target` property in the `more` object. Example: 
+```js
+new BsCookieNotice({
+    more: {
+        href: "https://github.com/parkejunior",
+        target: "_blank",
+    }
+});
+```
 
 ## Classes and HTML
 In the same way that it's possible to configure the URL of the "Learn More" link, it's also possible to configure the "Accept" button.
